@@ -7,13 +7,13 @@
 Skilled in front-end and back-end development, dedicated to delivering high-quality web applications that exceed expectations. Let's collaborate and bring your ideas to life online! 💻✨
 
 <!-- Skills:  LARAVEL / REACT NATIVE / NEXT.JS / TYPE-SCRIPT / TAILWIND-CSS
-
+-->
 - 👀 I’m interested in Web and Mobile app development
 - 🌱 I’m currently learning React Native
 - 🔭 I’m currently working on Coding4Ethiopia
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm male
--->
+
 ## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
