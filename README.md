@@ -6,14 +6,14 @@
 
 Skilled in front-end and back-end development, dedicated to delivering high-quality web applications that exceed expectations. Let's collaborate and bring your ideas to life online! 💻✨
 
-<!-- Skills:  LARAVEL / REACT NATIVE / NEXT.JS / TYPE-SCRIPT / TAILWIND-CSS -->
+<!-- Skills:  LARAVEL / REACT NATIVE / NEXT.JS / TYPE-SCRIPT / TAILWIND-CSS
 
 - 👀 I’m interested in Web and Mobile app development
 - 🌱 I’m currently learning React Native
 - 🔭 I’m currently working on Coding4Ethiopia
 - 😄 Pronouns: He
 - ⚡ Fun fact: I'm male
-
+-->
 ## 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -21,7 +21,7 @@ Skilled in front-end and back-end development, dedicated to delivering high-qual
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-ReactNative-%23282C34?style=flat-square&logo=react)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
 ![Webpack](https://img.shields.io/badge/-Webpack-%232C3A42?style=flat-square&logo=webpack)
 ![Vite](https://img.shields.io/badge/-Vite-%23646CFF?style=flat-square&logo=vite&logoColor=ffffff)
