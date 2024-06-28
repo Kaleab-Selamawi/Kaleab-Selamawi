@@ -1,6 +1,6 @@
 ### Hi 👋, I'm @Kaleab-Selamawi
 #### Full-Stack Web developer
-![Full-Stack Web developer](https://github.com/Kaleab-Selamawi/Kaleab-Selamawi/blob/main/github-header.png?raw=true)
+![Full-Stack Web developer](https://github.com/Kaleab-Selamawi/Kaleab-Selamawi/blob/main/github-header-image%20(13).png?raw=true)
 
 🚀 Full-stack web developer passionate about crafting dynamic and interactive web experiences. 
 
